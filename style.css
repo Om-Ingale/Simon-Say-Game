@@ -4,13 +4,12 @@ body{
     text-align: center;
     background-color: palegoldenrod;
     justify-items: center;
-    height : 110vh;
 }
 
 .container{
     margin-top: 16px;
     width: 99%;
-    height: 100vh;
+    height: 110vh;
     border-radius: 50px;
     border: 6px solid #232323;
     justify-items: center;
